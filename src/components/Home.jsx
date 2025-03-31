@@ -5,7 +5,7 @@ function Home(){
   <div className="row flex-lg-row-reverse align-items-center g-5 py-5">
     <div className="col-10 col-sm-8 col-lg-6 ">
       <img
-        src="/src/assets/pic 2.jpg"
+        src="/src/assets/pic_2.jpg"
         className="d-block mx-lg-auto img-fluid rounded"
         alt="Bootstrap Themes"
         width={700}
