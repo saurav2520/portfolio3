@@ -9,7 +9,7 @@ const Projects = () => {
         <ProjectCard
           title="Calculator"
           main="This is digital calculator which is fully functioned and developed using HTML,CSS and JavaScript"
-          imgLink={"./src/assets/calc1.png"}
+          imgLink={"./assets/calc1.png"}
           hostUrl={"https://saurav2520.github.io/calculator1/"}
           codeUrl={"https://github.com/saurav2520/calculator1.git"}
         />
@@ -17,7 +17,7 @@ const Projects = () => {
         <ProjectCard
           title="Flipcart clone"
           main="This is flipcart clone which is developed using HTML,CSS and JavaScript"
-          imgLink={"./src/assets/flip_clone1.png"}
+          imgLink={"./assets/flip_clone1.png"}
           hostUrl={"https://saurav2520.github.io/flip_clone/"}
           codeUrl={"https://github.com/saurav2520/flip_clone.git"}
         />
@@ -25,7 +25,7 @@ const Projects = () => {
         <ProjectCard
           title="world weather checker"
           main="This is world weather which is fully functioned and developing using HTML,CSS and JavaScript, uses a free weather api for data fetching"
-          imgLink={"./src/assets/world_wea.png"}
+          imgLink={"./assets/world_wea.png"}
           hostUrl={"https://saurav2520.github.io/world_weather1/"}
           codeUrl={"https://github.com/saurav2520/calculator1.git"}
         />
