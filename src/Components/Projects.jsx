@@ -9,7 +9,7 @@ const Projects = () => {
         <ProjectCard
           title="Calculator"
           main="This is digital calculator which is fully functioned and developed using HTML,CSS and JavaScript"
-          imgLink={"../calc1.png"}
+          imgLink={"./assets/calc1.png"}
           hostUrl={"https://saurav2520.github.io/calculator1/"}
           codeUrl={"https://github.com/saurav2520/calculator1.git"}
         />
